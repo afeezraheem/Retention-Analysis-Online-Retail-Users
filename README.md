@@ -1,6 +1,6 @@
 # Retention-Analysis-Online-Retail-Users
 
-In this exercise, I completed a retention analysis(also called Survival Analysis) of an online transactional data set. After I had completed a project on A/B testing of different choices of marketing assets, I thought it would be insightful to  learn if and/or what percentage of the resulting user growth  actually turns into a recurring and profitable customer base over time. I believe this exercises such as this, can help inform companies' strategies, particularly around figuring out why and how their customers are leaving while offering valuable insight into how to change it.
+In this exercise, I completed a retention analysis (also called Survival Analysis) of an online transactional data set. After I had completed a project on A/B testing of different choices of marketing assets, I thought it would be insightful to  learn if and/or what percentage of the resulting user growth  actually turns into a recurring and profitable customer base over time. I believe this exercises such as this, can help inform companies' strategies, particularly around figuring out why and how their customers are leaving while offering valuable insight into how to change it.
 
 
 
